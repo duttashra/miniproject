@@ -1,0 +1,30 @@
+
+/* font-family:Sacramento */
+@font-face{
+    font-family:Sacramento ;
+    src: url('../fonts/Sacramento/Sacramento-Regular.ttf');
+}
+
+/* font-family:Satisfy */
+@font-face{
+    font-family:Satisfy ;
+    src: url('../fonts/Satisfy/Satisfy-Regular.ttf');
+}
+
+/* font-family:Righteous  */
+@font-face{
+    font-family:Righteous ;
+    src: url('../fonts/Righteous/Righteous-Regular.ttf');
+}
+
+/* font-family:Piedra */
+@font-face{
+    font-family:Piedra ;
+    src: url('../fonts/Piedra/Piedra-Regular.ttf');
+}
+
+/* font-family:Great_Vibes */
+@font-face{
+    font-family:Great_Vibes;
+    src: url('../fonts/Great_Vibes/GreatVibes-Regular.ttf');
+}
